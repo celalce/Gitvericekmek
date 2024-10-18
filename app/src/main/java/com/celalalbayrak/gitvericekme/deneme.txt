@@ -1,2 +1,10 @@
 deneme text dosyasıdır.
+diger sunulacak bilgileri buradan öğrenebiliriz
+bu bir txt dosyasıdır
+*madde madde ekleme yapılabilir
+* yıldız işareti ile maddeleri yazabiliriz
+* anlaşılabilinmesi için yıldız daha uygun olacaktır
+* yanlız bir bakalım nasıl olacak diye yeni bir
+* madde ekleme yapalım . bununla birlikte yanlız
+* added data. these will know more easy.
 
