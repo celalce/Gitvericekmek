@@ -20,8 +20,13 @@ class MainActivity : AppCompatActivity() {
             var degisken = "bir string"
             var degisken2 = "localden işlem yapıldı"
             var degisken3 = "localden islem yeni"
+
             //localden bir işlem yapıldı
             var dgiskeni= "localden işlem "
+
+            // bu bir git repostory üzerinden işlem yapılmıştır.
+            var repo1 = "repodan işlem"
+
         }
     }
 }
