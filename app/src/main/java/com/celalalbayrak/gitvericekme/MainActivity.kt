@@ -19,6 +19,7 @@ class MainActivity : AppCompatActivity() {
         fun kaydet(){
             var degisken = "bir string"
             var degisken2 = "localden işlem yapıldı"
+            var degisken3 = "localden islem yeni"
         }
     }
 }
